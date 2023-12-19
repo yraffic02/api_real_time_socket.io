@@ -26,7 +26,7 @@ Envie uma mensagem para a API. O corpo da solicitação deve ser um JSON contend
 Exemplo:
 
 json
-Copy code
+
 {
   "name": "John Doe",
   "message": "Hello, world!"
